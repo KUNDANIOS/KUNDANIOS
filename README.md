@@ -218,7 +218,7 @@
 </p>
 
 <h3 align="center">
-  <i>⭐️ From <a href="https://github.com/KUNDANIOS">KUNDANIOS</a> with 💙</i>
+  <i>⭐️ From <a href="https://github.com/KUNDANIOS">KUNDANIOS</a></i>
   <br><br>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
