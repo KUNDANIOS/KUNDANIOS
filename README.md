@@ -87,6 +87,6 @@ https://kundan-portfolio-pi.vercel.app
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNDANIOS\&show_icons=true\&theme=dark)
+![Kundan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNDANIOS&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNDANIOS\&layout=compact\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNDANIOS&layout=compact&theme=tokyonight)
