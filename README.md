@@ -1,56 +1,113 @@
-# Kundan Kumar Yadav
+# 👋 Hi, I'm Kundan Kumar Yadav
 
-B.E. Electronics & Communication Engineering — JSS Academy of Technical Education, Bengaluru (2023–2027)
-
-Software Developer Intern @ YugaYatra Retail · Full-Stack (MERN) · Systems Programming (C++)
-
----
-
-### About
-
-I build full-stack web applications and low-level systems software. Currently exploring scalable backend architectures, generative AI integrations, and network-level programming.
-
-Open to **SWE internships and fresher roles**.
+💻 **Full-Stack Developer (MERN)**
+🚀 **Software Developer Intern @ YugaYatra Retail**
+🌐 Passionate about building **scalable, user-focused web applications**
 
 ---
 
-### Tech
+## 🚀 About Me
 
-**Languages** — JavaScript, C++, Python, C  
-**Frontend** — React, Next.js, Three.js, TailwindCSS, GSAP  
-**Backend** — Node.js, Express, Flask, FastAPI  
-**Database** — MongoDB, MySQL  
-**Tools** — Git, Docker, Postman, Vercel, AWS  
+🎓 **B.E. — Electronics & Communication Engineering**
+JSS Academy of Technical Education, Bengaluru
 
----
+💡 I am a passionate developer focused on building **modern full-stack applications, scalable backend systems, and AI-powered solutions.**
 
-### Projects
+🔭 Currently working on
+• Production-ready web applications
+• Backend architecture & API design
 
-**[DPI Engine v2.1](https://github.com/KUNDANIOS)** — Multithreaded deep packet inspection engine in C++. Detects HTTP, DNS, SSH and more across live and pcap traffic. Flask web dashboard for analytics.
+🌱 Currently learning
+• Next.js & Server Components
+• Generative AI integrations
+• System design & cloud scalability
 
-**[CloudDrive](https://github.com/KUNDANIOS)** — Full-stack cloud storage platform (MERN). JWT auth, file upload/management, responsive dashboard.
+🧠 Strong fundamentals in
+**Data Structures • OOP • DBMS • Operating Systems**
 
-**[TaskFlow API](https://github.com/KUNDANIOS)** — REST API with JWT authentication and role-based access control (Admin/User).
-
-**[Portfolio](https://kundan-portfolio-pi.vercel.app)** — Interactive 3D portfolio built with React, Three.js, and GSAP.
-
-**[Emotion Detection App](https://github.com/KUNDANIOS)** — Detects human emotions from facial images using a HuggingFace transformer model and Flask API.
-
----
-
-### Certifications
-
-- Oracle Certified Foundations Associate — AI & Machine Learning
-- JP Morgan Chase & Co. Software Engineering Job Simulation — Forage
-- Google Cloud Skill Badge — Image Classification with TensorFlow
+🤝 Open to
+**Full-stack roles • Internship opportunities • Open-source collaboration**
 
 ---
 
-### Stats
+## 🛠 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNDANIOS&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNDANIOS&layout=compact&theme=default&hide_border=true)
+### 💡 Languages
+
+JavaScript • Python • C • C++
+
+### 🎨 Frontend
+
+React.js • Next.js • HTML5 • CSS3 • TailwindCSS
+
+### ⚙️ Backend
+
+Node.js • Express.js • FastAPI • Flask
+
+### 🗄 Database
+
+MongoDB • MySQL
+
+### ☁️ Cloud & Tools
+
+Git • GitHub • Postman • Vercel • AWS • Google Cloud
 
 ---
 
-**[linkedin.com/in/kundanyadv](https://linkedin.com/in/kundanyadv)** · **[kundan-portfolio-pi.vercel.app](https://kundan-portfolio-pi.vercel.app)** · kundan4169re@gmail.com
+## 🚀 Featured Projects
+
+### ☁️ CloudDrive — Cloud Storage Platform
+
+A secure full-stack cloud storage application built with **React, Node.js, and MongoDB**
+
+✔ Secure file upload & management
+✔ Authentication & protected routes
+✔ Interactive dashboard UI
+
+---
+
+### 🌐 Developer Portfolio
+
+Modern animated portfolio built using **React, Three.js and GSAP**
+
+🔗 Live Demo
+https://kundan-portfolio-pi.vercel.app
+
+---
+
+### 🤖 Emotion Detection Web App
+
+Machine learning web application that detects human emotions from facial images
+
+✔ Transformer-based model
+✔ Flask REST API deployment
+✔ Real-time prediction workflow
+
+---
+
+## 🏆 Certifications
+
+✔ Oracle Certified Foundations Associate — **AI & Machine Learning**
+✔ **JP Morgan Chase Software Engineering Job Simulation** — Forage
+✔ **Google Cloud Skill Badge** — Image Classification with TensorFlow
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/kundanyadv/
+
+🌍 Portfolio
+https://kundan-portfolio-pi.vercel.app
+
+📧 Email
+[kundan4169re@gmail.com](mailto:kundan4169re@gmail.com)
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KUNDANIOS\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KUNDANIOS\&layout=compact\&theme=tokyonight)
