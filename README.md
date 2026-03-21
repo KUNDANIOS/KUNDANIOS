@@ -4,7 +4,7 @@
 🚀 **Software Developer Intern @ YugaYatra Retail**
 🌍 Building scalable web applications using **React, Node.js, and MongoDB**
 
----
+--
 
 ## 🚀 About Me
 
