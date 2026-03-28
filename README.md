@@ -21,7 +21,7 @@ Node.js • Express.js • FastAPI • Flask
 **Database**
 MongoDB • MySQL
 **Cloud & Tools**
-Git • GitHub • Postman • Vercel • AWS • Google Cloud
+Git • GitHub • Postman • Vercel • AWS • Google Cloud 
 ---
 ## 🚀 Featured Projects
 ### ☁️ CloudDrive — Cloud Storage Platform
