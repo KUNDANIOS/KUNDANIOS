@@ -8,7 +8,7 @@
 • 💻 Passionate about **Full-Stack Development, Cloud Platforms, and AI/ML**
 • 🔭 Currently building **modern web applications and backend systems**
 • 🌱 Exploring **Next.js, Generative AI, and scalable backend architectures**
-• 🧠 Strong fundamentals in **DSA, OOPs, DBMS, and Operating Systems** 
+• 🧠 Strong fundamentals in **DSA, OOPs, DBMS, and Operating Systems**  
 • 🤝 Open to **collaboration on web development and open-source projects*
 ---
 ## 🛠 Tech Stack
