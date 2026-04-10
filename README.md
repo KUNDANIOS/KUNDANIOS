@@ -13,7 +13,7 @@
 ---
 ## 🛠 Tech Stack
 **Languages**
-JavaScript • Python • C • C++
+JavaScript • Python • C • C++  
 **Frontend**
 React.js • Next.js • HTML5 • CSS3 • TailwindCSS
 **Backend**
