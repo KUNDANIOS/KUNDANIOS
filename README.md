@@ -1,5 +1,5 @@
 # Hi 👋 I'm Kundan Kumar Yadav
-💻 **Full-Stack Developer (MERN)**
+💻 **Full-Stack Developer (MERN)**   
 🚀 **Software Developer Intern @ YugaYatra Retail**
 🌍 Building scalable web applications using **React, Node.js, and MongoDB**
 --
