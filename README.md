@@ -1,8 +1,12 @@
 <div align="center">
 
-![Banner](./banner.svg)
+<!-- STEP 1: After uploading banner.svg to your repo root, replace the line below with:  -->
+<!-- <img src="https://raw.githubusercontent.com/KUNDANIOS/KUNDANIOS/main/banner.svg" width="100%" alt="Banner"/> -->
+<!-- For now the typing SVG works as the header -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB+%7C+Express;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Kundan%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%" alt="Header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB+%7C+Express;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 
 </div>
 
@@ -23,36 +27,24 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
 ### ⚙️ Backend
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![Python](https://skillicons.dev/icons?i=python)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![Flask](https://skillicons.dev/icons?i=flask)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" />
+</p>
 
 ### 🗄️ Databases
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### ☁️ Cloud & DevTools
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![Google Cloud](https://skillicons.dev/icons?i=gcp)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Postman](https://skillicons.dev/icons?i=postman)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,git,github,postman,vscode" />
+</p>
 
 ---
 
@@ -79,7 +71,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KUNDANIOS&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=KUNDANIOS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -107,7 +99,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundanyadv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundan-portfolio-pi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundan-portfolio-pi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundan4169re@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KUNDANIOS)
 
@@ -117,8 +109,8 @@
 
 <div align="center">
 
-### 💻 *Building Scalable Web Apps — One Commit at a Time* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KUNDANIOS&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=KUNDANIOS&color=cc0000&style=flat-square&label=Profile+Views)
 
 </div>
