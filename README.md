@@ -4,7 +4,7 @@
 🌍 Building scalable web applications using **React, Node.js, and MongoDB**
 --
 ## 🚀 About Me
-• 🎓 B.E. Electronics & Communication Engineering — JSS Academy of Technical Education, Bengaluru 
+• 🎓 B.E. Electronics & Communication Engineering — JSS Academy of Technical Education, Bengaluru  
 • 💻 Passionate about **Full-Stack Development, Cloud Platforms, and AI/ML**
 • 🔭 Currently building **modern web applications and backend systems**
 • 🌱 Exploring **Next.js, Generative AI, and scalable backend architectures**
