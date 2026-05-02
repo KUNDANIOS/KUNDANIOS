@@ -126,7 +126,7 @@
 </svg>
 
 <!-- STEP 1: After uploading banner.svg to your repo root, replace the line below with:  -->
-<!-- <img src="https://raw.githubusercontent.com/KUNDANIOS/KUNDANIOS/main/banner.svg" width="100%" alt="Banner"/> -->
+ <img src="https://raw.githubusercontent.com/KUNDANIOS/KUNDANIOS/main/banner.svg" width="100%" alt="Banner"/> -->
 <!-- For now the typing SVG works as the header -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=200&section=header&text=Kundan%20Kumar%20Yadav&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI%2FML&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%" alt="Header"/>
