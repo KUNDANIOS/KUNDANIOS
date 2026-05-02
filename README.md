@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Kundan Kumar Yadav
+![Banner](./banner.svg)
 
-### 🚀 Full-Stack Developer | MERN Stack | Building Scalable Web Apps
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB+%7C+Express;AI+%26+ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);React+%7C+Node.js+%7C+MongoDB+%7C+Express;AI+%26+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Apps+🚀" alt="Typing SVG" />
 
 </div>
 
