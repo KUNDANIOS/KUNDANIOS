@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/dashboard.svg" alt="Kundan Kumar Yadav, Full-Stack Developer, MERN and AI/ML" width="100%"/>
+<img src="dashboard.svg" alt="Kundan Kumar Yadav, Full-Stack Developer, MERN and AI/ML" width="100%"/>
 
 [About](#about) &nbsp;/&nbsp; [Toolbox](#toolbox) &nbsp;/&nbsp; [Repositories](#repositories) &nbsp;/&nbsp; [Activity](#activity) &nbsp;/&nbsp; [Connect](#connect)
 
@@ -10,7 +10,7 @@
 
 ### About
 
-<img src="assets/about.svg" alt="About Kundan Kumar Yadav" width="100%"/>
+<img src="about.svg" alt="About Kundan Kumar Yadav" width="100%"/>
 
 <details>
 <summary><b>More about what I do</b></summary>
@@ -29,14 +29,14 @@ I like designing smooth UIs and writing clean backend APIs. Right now I am explo
 
 ### Toolbox
 
-<img src="assets/stack.svg" alt="HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, FastAPI, Flask, MongoDB, MySQL, AWS, Google Cloud, Vercel, Git, GitHub, Postman, VS Code" width="100%"/>
+<img src="stack.svg" alt="HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, FastAPI, Flask, MongoDB, MySQL, AWS, Google Cloud, Vercel, Git, GitHub, Postman, VS Code" width="100%"/>
 
 ### Repositories
 
-<a href="https://github.com/KUNDANIOS/CloudDrive"><img src="assets/repo-1.svg" alt="CloudDrive" width="49%"/></a>
-<a href="https://github.com/KUNDANIOS/Emotion-Detection-AI"><img src="assets/repo-2.svg" alt="Emotion-Detection-AI" width="49%"/></a>
-<a href="https://github.com/KUNDANIOS/drowsiness"><img src="assets/repo-3.svg" alt="drowsiness" width="49%"/></a>
-<a href="https://github.com/KUNDANIOS/deep-packet-inspection-engine"><img src="assets/repo-4.svg" alt="deep-packet-inspection-engine" width="49%"/></a>
+<a href="https://github.com/KUNDANIOS/CloudDrive"><img src="repo-1.svg" alt="CloudDrive" width="49%"/></a>
+<a href="https://github.com/KUNDANIOS/Emotion-Detection-AI"><img src="repo-2.svg" alt="Emotion-Detection-AI" width="49%"/></a>
+<a href="https://github.com/KUNDANIOS/drowsiness"><img src="repo-3.svg" alt="drowsiness" width="49%"/></a>
+<a href="https://github.com/KUNDANIOS/deep-packet-inspection-engine"><img src="repo-4.svg" alt="deep-packet-inspection-engine" width="49%"/></a>
 
 [Portfolio](https://kundan-portfolio-pi.vercel.app) · [See all public repositories](https://github.com/KUNDANIOS?tab=repositories)
 
@@ -59,6 +59,6 @@ I like designing smooth UIs and writing clean backend APIs. Right now I am explo
 [![Portfolio](https://img.shields.io/badge/Portfolio-CC0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kundan-portfolio-pi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundan4169re@gmail.com)
 
-<img src="assets/footer.svg" alt="Build. Learn. Ship." width="100%"/>
+<img src="footer.svg" alt="Build. Learn. Ship." width="100%"/>
 
 </div>
