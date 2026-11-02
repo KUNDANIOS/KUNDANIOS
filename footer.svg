@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="BUILD. LEARN. SHIP.">
+<title>BUILD. LEARN. SHIP.</title>
+<style>
+.ft{font:700 16px 'Fira Code','SFMono-Regular',Consolas,'Liberation Mono',monospace;fill:#e6edf3;letter-spacing:4px}
+@keyframes drift{from{transform:translateX(0)}to{transform:translateX(-450px)}}
+</style>
+<rect width="900" height="120" rx="14" fill="#0d1117"/>
+<path d="M0 70 q 112.5 -34 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 V120 H0 Z" fill="#8b0000" opacity="0.6" style="animation: drift 14s linear infinite reverse;"/>
+<path d="M0 84 q 112.5 -34 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 t 225 0 V120 H0 Z" fill="#cc0000" opacity="0.4" style="animation: drift 9s linear infinite;"/>
+<text x="450" y="48" text-anchor="middle" class="ft">BUILD. LEARN. SHIP.</text>
+</svg>

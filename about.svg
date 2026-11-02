@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="About Kundan Kumar Yadav">
+<title>About</title>
+<style>
+.hd{font:700 18px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6edf3}
+.body{font:400 14.5px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c9d1d9}
+.ln{animation:fade .8s ease both}
+@keyframes fade{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+</style>
+<rect width="900" height="210" rx="12" fill="#161b22"/>
+<rect x=".5" y=".5" width="899" height="209" rx="12" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="5" height="210" rx="2" fill="#cc0000"/>
+<text x="30" y="38" class="hd">About me</text>
+<circle cx="38" cy="78" r="3.5" fill="#cc0000" class="ln" style="animation-delay:0.0s"/><text x="54" y="83" class="body ln" style="animation-delay:0.0s">Full-stack developer building modern web apps with the MERN stack and bringing AI/ML into them.</text><circle cx="38" cy="106" r="3.5" fill="#cc0000" class="ln" style="animation-delay:0.2s"/><text x="54" y="111" class="body ln" style="animation-delay:0.2s">Projects range from a cloud storage dashboard to real-time emotion and drowsiness detection.</text><circle cx="38" cy="134" r="3.5" fill="#cc0000" class="ln" style="animation-delay:0.4s"/><text x="54" y="139" class="body ln" style="animation-delay:0.4s">B.E. Electronics &amp; Communication Engineering, JSS Academy of Technical Education, Bengaluru.</text><circle cx="38" cy="162" r="3.5" fill="#cc0000" class="ln" style="animation-delay:0.6000000000000001s"/><text x="54" y="167" class="body ln" style="animation-delay:0.6000000000000001s">Software Developer Intern at YugaYatra Retail, exploring Next.js, Generative AI and backends.</text><circle cx="38" cy="190" r="3.5" fill="#cc0000" class="ln" style="animation-delay:0.8s"/><text x="54" y="195" class="body ln" style="animation-delay:0.8s">Strong fundamentals in DSA, OOPs, DBMS and Operating Systems.</text>
+</svg>

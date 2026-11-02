@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="drowsiness: Real-time drowsiness detection using face and hand landmarks with MediaPipe.">
+<title>drowsiness</title>
+<style>
+.nm{font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6edf3}
+.ds{font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8b949e}
+.tg{font:500 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c9d1d9}
+.lg{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8b949e}
+.card{animation:in .7s ease both;animation-delay:0.44999999999999996s}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g class="card">
+<rect width="440" height="150" rx="12" fill="#161b22"/>
+<rect x=".5" y=".5" width="439" height="149" rx="12" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="5" height="150" rx="2" fill="#cc0000"/>
+<text x="24" y="40" class="nm">drowsiness</text>
+<circle cx="348" cy="35" r="5" fill="#e34c26"/>
+<text x="358" y="39" class="lg">HTML</text>
+<text x="24" y="72" class="ds">Real-time drowsiness detection using face and hand</text><text x="24" y="92" class="ds">landmarks with MediaPipe.</text>
+<rect x="24" y="104" width="79" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="64" y="119" text-anchor="middle" class="tg">MediaPipe</text><rect x="111" y="104" width="119" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="170" y="119" text-anchor="middle" class="tg">Computer Vision</text>
+<text x="24" y="142" class="lg" fill-opacity="0"> </text>
+</g>
+</svg>

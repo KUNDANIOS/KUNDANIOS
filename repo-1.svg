@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="CloudDrive: Full-stack cloud storage with secure file upload, auth and a dashboard.">
+<title>CloudDrive</title>
+<style>
+.nm{font:700 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#e6edf3}
+.ds{font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8b949e}
+.tg{font:500 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#c9d1d9}
+.lg{font:500 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8b949e}
+.card{animation:in .7s ease both;animation-delay:0.15s}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+<g class="card">
+<rect width="440" height="150" rx="12" fill="#161b22"/>
+<rect x=".5" y=".5" width="439" height="149" rx="12" fill="none" stroke="#30363d"/>
+<rect x="0" y="0" width="5" height="150" rx="2" fill="#cc0000"/>
+<text x="24" y="40" class="nm">CloudDrive</text>
+<circle cx="348" cy="35" r="5" fill="#3178c6"/>
+<text x="358" y="39" class="lg">TypeScript</text>
+<text x="24" y="72" class="ds">Full-stack cloud storage with secure file upload,</text><text x="24" y="92" class="ds">auth and a dashboard.</text>
+<rect x="24" y="104" width="53" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="50" y="119" text-anchor="middle" class="tg">React</text><rect x="85" y="104" width="66" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="118" y="119" text-anchor="middle" class="tg">Node.js</text><rect x="159" y="104" width="66" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="192" y="119" text-anchor="middle" class="tg">Express</text><rect x="233" y="104" width="66" height="22" rx="11" fill="#0d1117" stroke="#cc0000" stroke-opacity=".5"/><text x="266" y="119" text-anchor="middle" class="tg">MongoDB</text>
+<text x="24" y="142" class="lg" fill-opacity="0"> </text>
+</g>
+</svg>
